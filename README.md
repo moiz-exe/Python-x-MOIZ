@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Python × MOIZ
+# 🐍 Python -×- MOIZ
 
 ### `print("Hello, World!")` → `Building My Future`
 
